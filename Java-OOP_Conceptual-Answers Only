@@ -1,4 +1,4 @@
-c
-a
-b
-c
+C. There is no default constructor defined
+A. Vehicle starting
+B. 20 — obj2 and obj1 refer to the same object
+C. NullPointerException
